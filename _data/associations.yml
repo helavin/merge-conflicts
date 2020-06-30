@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlants's ConnectHome
-  role: Volunteer
-  year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+- organization: TopSoft
+  role: .net developer
+  year: June 2018 &mdash; June 2020
+  url: http://www.topsoft.by
+  summary: Customization parts of the EAM (Enterprise Asset Management) to the requirements of the customer.
 
 
-- organization: freeCodeCamp
-  role: Contributor
-  year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+- organization: EffectiveSoft Corporation
+  role: .net developer
+  year: February 2018 &mdash; May 2018
+  url: https://www.effectivesoft.by
+  summary: Maintenance of a medical desktop application for determining the diagnosis.
